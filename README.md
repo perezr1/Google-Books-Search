@@ -3,13 +3,13 @@
 ### Live Demo and links:
 
 Live Demo Hosted on Horuku: 
-[Live Demo](https://ron-google-search.herokuapp.com/)
+[Live Demo](https://ron-google-search.herokuapp.com/){:target="_blank"}
 
 GitHub Repo for installation and Use:
-[GitHub](https://github.com/perezr1/Google-Books-Search)
+[GitHub](https://github.com/perezr1/Google-Books-Search){:target="_blank"}.
 
 Developer Portfolio:
-[Portfolio](http://ronnyperez.com/)
+[Portfolio](http://ronnyperez.com/){:target="_blank"}.
 
 ## Depscription
 
@@ -23,13 +23,13 @@ This is a React-based Google Books Search app that allows the user to find books
 
 ![MERN](Blog-Article-MERN-Stack.jpg)
 
-- [MongoDB Doc](https://docs.mongodb.com/)
-- [express.js](https://expressjs.com/en/5x/api.html)
-- [ReactJS Documentation](https://facebook.github.io/react/)
-- [NodeJS Documentation](https://nodejs.org/en/about/)
-    * [Mongoose](https://mongoosejs.com/)
-    * [Socket.io NPM package](https://www.npmjs.com/package/socket.io)
-    * [Heroku Hosting](https://dashboard.heroku.com/apps)
+- [MongoDB Doc](https://docs.mongodb.com/){:target="_blank"}
+- [express.js](https://expressjs.com/en/5x/api.html){:target="_blank"}
+- [ReactJS Documentation](https://facebook.github.io/react/){:target="_blank"}
+- [NodeJS Documentation](https://nodejs.org/en/about/){:target="_blank"}
+    * [Mongoose](https://mongoosejs.com/){:target="_blank"}
+    * [Socket.io NPM package](https://www.npmjs.com/package/socket.io){:target="_blank"}
+    * [Heroku Hosting](https://dashboard.heroku.com/apps){:target="_blank"}
 
 ## License
 
