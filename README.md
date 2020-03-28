@@ -3,10 +3,10 @@
 ### Live Demo and links:
 
 Live Demo Hosted on Horuku: 
-[Live Demo](https://dashboard.heroku.com/apps)
+[Live Demo](https://ron-google-search.herokuapp.com/)
 
 GitHub Repo for installation and Use:
-[GitHub](http://github.com/perezr1/Google-Books-Search/)
+[GitHub](https://github.com/perezr1/Google-Books-Search)
 
 Developer Portfolio:
 [Portfolio](http://ronnyperez.com/)
